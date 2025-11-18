@@ -2,8 +2,8 @@
 
 I'm a software developer.
 
-🎓 University Work
+University Work:
 
 Most of my academic and university-related projects are hosted on a separate account. You can find that profile here:
 
-➡️ https://github.com/nalinmuj
+https://github.com/nalinmuj
